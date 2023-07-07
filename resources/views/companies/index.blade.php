@@ -50,7 +50,7 @@
         </tr>
         @endforeach
     </table>
-  
-    {!! $companies->links() !!}
+    
+    {!! $companies->links('pagination.custom') !!}
       
 @endsection

@@ -50,7 +50,7 @@
             <div class="col-xs-12 col-sm-12 col-md-12 py-1">
                 <div class="form-group">
                     <strong>Website:</strong>
-                    <input type="text" name="name" value="{{ $company->website }}" class="form-control" placeholder="Website">
+                    <input type="text" name="website" value="{{ $company->website }}" class="form-control" placeholder="Website">
                 </div>
             </div>                        
             <div class="col-xs-12 col-sm-12 col-md-12 text-center py-1">
